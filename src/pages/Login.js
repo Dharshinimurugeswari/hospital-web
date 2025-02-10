@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Form, Button, Card, Container } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import backgroundImage from "../assets/images/logo512.png";
+import backgroundImage from "../assets/images/logo192.png";
 
 const Login = () => {
   const [email, setEmail] = useState("");
